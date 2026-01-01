@@ -19,7 +19,7 @@ body {
   transition: transform 0.3s ease;
   overflow: visible;
 }
-.floating-whatsapp{
+/* .floating-whatsapp{
   position: absolute;
   top: 15px;
   left: 15px;
