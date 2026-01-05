@@ -102,6 +102,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div><!--container-->
 </section><!--/key-point-->
 
+
+
 <!--About-->
 <section class="container-fluid about-sec pt aos-all" id="transcroller-body">
     <div class="no-container width80">
