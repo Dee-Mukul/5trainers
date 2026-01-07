@@ -573,7 +573,7 @@ p.certip {
   background-color: #fff;
   transition: all 0.4s ease-in-out;
   text-align: center;
-  margin-top: 30px;
+  /* margin-top: 30px; */
   transition: all 0.4s ease-in-out;
 }
 .icon-box .icon {
@@ -670,13 +670,13 @@ p.certip {
   row-gap: 10px;
 }
 
-.faq .label:hover {
+/* .faq .label:hover {
   color: #0f79be;
-}
+} */
 .faq .label::before {
   content: "+";
   position: absolute;
-  right: 0px;
+  right: 10px;
   top: 50%;
   transform: translateY(-50%);
   font-size: 19px;
@@ -1223,14 +1223,14 @@ p.certip {
     height: 40px !important;
     line-height: 40px !important;
   }
-  .whatsapp {
+  /* .whatsapp {
     bottom: 120px !important;
     left: 10px !important;
   }
   .call {
     bottom: 60px !important;
     left: 10px !important;
-  }
+  } */
   .ftr-box p a {
     padding: 0;
     font-size: 14px;
