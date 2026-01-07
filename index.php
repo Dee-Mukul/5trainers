@@ -11,9 +11,9 @@ $canonical_url = "https://www.5trainers.com/index.php";
             <div class="slider-center row">
                 <div class="col-sm-6 col-md-6 col-lg-7 slide-text">
                     <h2>Knowledge is power, and digital knowledge is game-changing power.</h2>
-                    <p>Guiding you towards success, every step of the way</p>
+                    <p class="mt-5">Guiding you towards success, every step of the way</p>
 
-                    <div class="two-btns text-center ">
+                    <div class="two-btns text-center  mt-5">
                         <a class="getst btn" href="javascript:void(0)">Get a Free Consultation</a>
                     </div>
                 </div>
@@ -299,45 +299,45 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div>
 </section>
 <section class="container-fluid whyChooseUsContent">
-    <div class="container">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="800"
                     class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Expertise</h5>
-                    <p>Trainers with years of proven industry experience</p>
+                    <p class="text-center">Trainers with years of proven industry experience</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate chooseContentBox whitebg">
                     <h5>Practical Approach </h5>
-                    <p>Hands-on learning with live projects</p>
+                    <p class="text-center">Hands-on learning with live projects</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1200"
                     class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Flexibility</h5>
-                    <p>Weekday & weekend classes to fit your schedule</p>
+                    <p class="text-center">Weekday & weekend classes to fit your schedule</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1400" class="aos-init aos-animate chooseContentBox whitebg">
                     <h5>Placement Assistance</h5>
-                    <p>Helping students connect with top recruiters.</p>
+                    <p class="text-center">Helping students connect with top recruiters.</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1600"
                     class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Affordable Learning</h5>
-                    <p>Quality training at competitive prices</p>
+                    <p class="text-center">Quality training at competitive prices</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
                     <h5>Experienced counselors</h5>
-                    <p>Learn tools like Google Analytics, SEMrush, Canva, Ahrefs, and more.</p>
+                    <p class="text-center">Learn tools like Google Analytics, SEMrush, Canva, Ahrefs, and more.</p>
                 </div>
             </div><!--/col-->
         </div><!--/row-->
@@ -872,7 +872,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Create a Form Consult with Expert -->
 
 <section class="container-fluid pt pb blogsec">
-    <div class="container">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area centerhding">
@@ -982,7 +982,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
         </div>
         <!--/row-->
         <div class="row viewblog">
-            <a href="blog.php"><img src="assets/image/icon/view_more-blog.png" alt="Image" title="View More Blog"></a>
+            <a href="blog/"><img src="assets/image/icon/view_more-blog.png" alt="Image" title="View More Blog"></a>
         </div>
         <!--/row-->
     </div>
@@ -1003,7 +1003,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div>
                 <!--heading-->
                 <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
-                <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
+                <div class="faqimg mt-5"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">
