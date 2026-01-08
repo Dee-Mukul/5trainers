@@ -51,7 +51,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 						Where Ambition Meets Digital Excellence</p>
 				</div>
 				<div class="aboutInfo mt-20">
-					<p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate">Welcome to 5 trainers, a
+					<p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate">Welcome to 5Trainers, a
 						leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s
 						marketers. We offer industry-recognized courses in SEO, Google Ads, Meta Ads, Data Science, Full
 						Stack Development, and more—designed to equip you with the skills the digital world demands.</p>
@@ -60,7 +60,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 						looking to grow your business, our expert trainers guide you every step of the way. With
 						practical learning, live projects, and globally relevant certifications, we help you transform
 						your passion into a successful digital career.</p>
-					<p data-aos="fade-up" data-aos-duration="1500" class="aos-init aos-animate">At 5 trainers, we don’t
+					<p data-aos="fade-up" data-aos-duration="1500" class="aos-init aos-animate">At 5trainers, we don’t
 						just teach digital marketing—we prepare you to lead the digital future.</p>
 				</div>
 
@@ -72,7 +72,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 									<div class="successtop">
 										<span><img src="assets/image/icon/learn.png" alt="learn"></span>
 										<h6>Learn</h6>
-										<p>Gain in-demand digital marketing skills from expert trainers</p>
+										<p class="text-center">Gain in-demand digital marketing skills from expert trainers</p>
 										<div class="borderright"></div>
 									</div>
 								</div>
@@ -81,7 +81,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 									<div class="successbottom"><span><img src="assets/image/icon/apply.png"
 												alt="apply"></span>
 										<h6>Apply</h6>
-										<p>Work on live projects and real-world campaigns</p>
+										<p class="text-center">Work on live projects and real-world campaigns</p>
 										<div class="borderright"></div>
 									</div>
 								</div>
@@ -90,7 +90,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 									<div class="successbottom"><span><img src="assets/image/icon/grow.png"
 												alt="Grow"></span>
 										<h6>Grow</h6>
-										<p>Build confidence with hands-on experience</p>
+										<p class="text-center">Build confidence with hands-on experience</p>
 										<div class="borderright"></div>
 									</div>
 								</div>
@@ -99,7 +99,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 									<div class="successbottom bordernone"><span><img src="assets/image/icon/succeed.png"
 												alt="succeed"></span>
 										<h6>Succeed</h6>
-										<p>Launch your career with industry-recognized certifications</p>
+										<p class="text-center">Launch your career with industry-recognized certifications</p>
 									</div>
 								</div>
 							</div>
@@ -118,7 +118,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 						</div>
 						<h3>Who we are</h3>
 						<!--<p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>-->
-						<p class="p">5 Trainers is a trusted digital marketing institute in Mohali, offering practical
+						<p class="p">5Trainers is a trusted digital marketing institute in Mohali, offering practical
 							training and real project experience to help learners build industry-ready skills.</p>
 					</div>
 				</div>
@@ -304,7 +304,7 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 					</div>
 					<h5 class="work-item__title">Learn From Certified Industry Experts</h5>
 					<div class="d-flex justify-content-center">
-						<p class="work-item__desc">Our trainers aren’t just instructors, they’re active practitioners.
+						<p class="work-item__desc text">Our trainers aren’t just instructors, they’re active practitioners.
 						</p>
 					</div>
 					<details>

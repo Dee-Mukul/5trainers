@@ -28,9 +28,9 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 <?php include('header.php'); ?>
 <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
+<!-- <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" /> -->
+<!-- <link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" /> -->
+<!-- <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" /> -->
 
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
@@ -258,7 +258,8 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
+                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
+                    <img src="assets/image/slider/counseling-for-student.png" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->

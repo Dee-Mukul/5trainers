@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Digital Marketing Training in Himachal Pradesh | 100% Job-Oriented Course</title>
+    <title> Digital Marketing Course in Kharar | Best Institute with Practical Training</title>
     <meta name="description"
-        content="Join Digital Marketing Training in Himachal Pradesh. 100% job-oriented course with placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!">
+        content="Join Digital Marketing Training in Kharar. Learn SEO, Google Ads, SMM with live projects. Get placement support. Enroll now for a successful digital career!">
     <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
@@ -79,51 +79,57 @@
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px;"><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh</h2>
-                                    <h4><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh – 100% Job-Oriented Course</h4>
+                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Kharar</h2>
+                                    <h4 class="mt-4"><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Kharar – Best Institute with 100% Practical Training</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
-                                <p class="coDetail">Best Digital Marketing Institute in Himachal Pradesh with Placement Support</p>
+                                <p class="coDetail">Become a certified digital marketing expert with Kharar's leading institute. Master SEO, Google Ads, Social Media Marketing, AI tools, and more through our completely practical, project-based curriculum designed to launch careers and grow local businesses.</p>
                                 <!--for Both Freshers &-->
+                                <h4 class="tetx-white">Build In-Demand Digital Skills for Today’s Job Market</h4>
                             </div><!--/slider text-->
 
 
-                            <div class="course-features mtb-40">
+                            <!-- <div class="course-features mtb-40">
                                 <div class="features">
                                     <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Affordable Fees </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Certified Trainers </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Internship Opportunity </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Placement assistance</div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Professional Resume Building </div>
-                                </div><!--/features-->
+                                </div>
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div><!--/features-->
+                                </div>
 
-                            </div><!--/course-features-->
+                            </div> -->
+                            <div>
+                                <p class="coDetail text-white">5Trainers provides industry-focused Digital Marketing Training in Kharar, designed to make you job-ready with skills that local businesses and national companies actively need. Learn through live projects, real campaign management, and expert guidance—gaining confidence that goes beyond theory</p>
+                            </div>
+
+
                             <div class="course-metrics mt-15 mb-40">
                                 <div class="course-metric">
                                     <div class="metric-heading"> 95%</div>
@@ -262,7 +268,7 @@
                     </div>
                     <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate"
                             data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
-                                    src="assets/image/icon/reply_arrow.png" alt="" ></span></a></div>
+                                    src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
                 </div>
             </div>
         </div>
@@ -443,9 +449,9 @@
     <section class="py-5 bg-light">
         <div class="cutom-container width90">
             <div class="text-center mb-5">
-                <h2 class="fw-bold">Digital Marketing Course in Himachal Pradesh – What You Will Learn</h2>
+                <h2 class="fw-bold">Digital Marketing Course in Kharar – Complete Curriculum</h2>
                 <p class="text-muted">
-                   Our course covers all major digital marketing modules required in today’s competitive market.
+                   Our comprehensive program covers all key digital marketing areas:
                 </p>
             </div>
 
@@ -454,17 +460,17 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">SEO Training in Himachal Pradesh</h5>
+                            <h5 class="card-title">SEO Training in Kharar:</h5>
                             <p class="card-text">
-                               Learn how to rank websites on Google and generate organic traffic.
+                               Master on-page, off-page, technical, and local SEO. Learn keyword research, website optimization, and strategies to rank local businesses.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Keyword research</li>
                                 <li>On-page SEO</li>
                                 <li>Off-page SEO</li>
                                 <li>Technical SEO</li>
                                 <li>Local SEO</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -473,17 +479,17 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Social Media Marketing (SMM) Training  </h5>
+                            <h5 class="card-title">Social Media Marketing (SMM) Training in Kharar: </h5>
                             <p class="card-text">
-                                Learn how to grow brands on:
+                                Create engaging brand strategies for Facebook, Instagram, and YouTube. Learn content creation, paid advertising, and community management.
                             </p>
-                             <ul class="p-0">
+                             <!-- <ul>
                                 <li>Facebook</li>
                                 <li>Instagram</li>
                                 <li>LinkedIn</li>
                                 <li>YouTube</li>
                                
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -492,16 +498,16 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">PPC & Google Ads Training</h5>
+                            <h5 class="card-title">Google Ads & PPC Training in Kharar:</h5>
                             <p class="card-text">
-                               Learn paid marketing through:
+                                Set up and manage effective paid campaigns on Google. Learn budgeting, targeting, ad creation, and measuring ROI.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Google Search Ads</li>
                                 <li>Display Ads</li>
                                 <li>YouTube Ads</li>
                                 <li>Social media paid campaigns</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -510,16 +516,16 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Content Marketing Training</h5>
+                            <h5 class="card-title">Content Marketing Training in Kharar:</h5>
                             <p class="card-text">
-                                Learn how to create SEO-friendly content such as:  
+                               Learn to create compelling blogs, videos, and social media content that attracts customers and supports business growth.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Blogs</li>
                                 <li>Website content</li>
                                 <li>Social media posts</li>
                                 <li>Basic copywriting for ads and landing pages</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -528,16 +534,16 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Email Marketing Training</h5>
+                            <h5 class="card-title">Email Marketing Training in Kharar:</h5>
                             <p class="card-text">
-                                Learn how to:
+                               Build email lists, design effective campaigns, and write engaging copy to nurture customer relationships.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Build email lists</li>
                                 <li>Design email campaigns</li>
                                 <li>Write effective emails</li>
                                 <li>Track open rates and conversions</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -546,16 +552,16 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Analytics & AI Tools Training</h5>
+                            <h5 class="card-title">Analytics & Digital Tools Training in Kharar:</h5>
                             <p class="card-text">
-                                Understand tools like:
+                               Use Google Analytics and modern tools to track performance and make data-driven marketing decisions.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Google Analytics</li>
                                 <li>Google Search Console</li>
                                 <li>AI-powered marketing tools</li>
                                 <li>Reporting & performance analysis</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -650,9 +656,9 @@
     <section class="py-5 bg-light">
   <div class="container">
     <div class="text-center mb-5">
-      <h2 class="fw-bold">Why Choose 5Trainers for <a href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital Marketing</a> Training in Himachal Pradesh?</h2>
+      <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Kharar?</h2>
       <p class="text-muted mt-2">
-        We believe digital marketing should be simple, practical, and result-oriented.
+        We deliver practical, result-oriented training perfect for Kharar’s aspiring professionals.
       </p>
     </div>
 
@@ -660,9 +666,9 @@
       <!-- Card 1 -->
       <div class="col-md-6 col-lg-4">
         <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Learn from Industry Experts</h5>
+          <h5 class="fw-semibold">Learn from Industry Practitioners:</h5>
           <p class="text-muted">
-            Our trainers are experienced digital marketers working on live projects and teaching with real-world examples.
+            Train with certified digital marketers who manage real campaigns and share current industry insights.
           </p>
         </div>
       </div>
@@ -670,23 +676,24 @@
       <!-- Card 2 -->
       <div class="col-md-6 col-lg-4">
         <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">100% Practical Training</h5>
-          <ul class="text-muted p-0">
+          <h5 class="fw-semibold">100% Live Project-Based Learning:</h5>
+          <p class="text-muted"> Execute real SEO audits, run Google Ads campaigns, manage social media accounts, and work on live websites during training.</p>
+          <!-- <ul class="text-muted ps-3">
             <li>Live websites</li>
             <li>SEO audits</li>
             <li>Google Ads campaigns</li>
             <li>Social media marketing</li>
             <li>Content creation & analytics</li>
-          </ul>
+          </ul> -->
         </div>
       </div>
 
       <!-- Card 3 -->
       <div class="col-md-6 col-lg-4">
         <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Beginner-Friendly Course</h5>
+          <h5 class="fw-semibold">Beginner-Friendly Approach:</h5>
           <p class="text-muted">
-            No technical background required. We start from basics and move step-by-step to advanced strategies.
+           No prior experience needed. We start from basics and progress step-by-step to advanced digital strategies.
           </p>
         </div>
       </div>
@@ -694,22 +701,23 @@
       <!-- Card 4 -->
       <div class="col-md-6 col-lg-4">
         <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Career & Freelancing Support</h5>
-          <ul class="text-muted p-0">
+          <h5 class="fw-semibold">Complete Career & Freelance Support</h5>
+          <p  class="text-muted"> Get dedicated help with resume building, interview preparation, freelancing setup, and job placement assistance.</p>
+          <!-- <ul class="text-muted ps-3">
             <li>Job interview preparation</li>
             <li>Resume & portfolio building</li>
             <li>Freelancing platform guidance</li>
             <li>Client handling basics</li>
-          </ul>
+          </ul> -->
         </div>
       </div>
 
       <!-- Card 5 -->
       <div class="col-md-6 col-lg-4">
         <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Real Trainers, Real Experience</h5>
+          <h5 class="fw-semibold">Real-World Training Methodology:</h5>
           <p class="text-muted">
-            Learn from professionals actively working in the digital marketing industry — no outdated theory.
+            Learn strategies that work for local businesses, e-commerce, and service industries relevant to Kharar’s market.
           </p>
         </div>
       </div>
@@ -717,12 +725,41 @@
       <!-- Card 6 -->
       <div class="col-md-6 col-lg-4">
         <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Support Even After Course Completion</h5>
+          <h5 class="fw-semibold">Hands-On Tool Mastery: </h5>
           <p class="text-muted">
-            Get continuous guidance even after training to grow confidently in your career.
+            Gain proficiency in Google Analytics, Google Ads, Meta Business Suite, Canva, SEO tools, and AI marketing platforms.
           </p>
         </div>
       </div>
+       <!-- Card 7 -->
+      <div class="col-md-6 col-lg-4">
+        <div class="card h-100 shadow-sm border-0 p-3">
+          <h5 class="fw-semibold">Simple, Clear Instruction </h5>
+          <p class="text-muted">
+           We break down complex topics into easy-to-understand concepts without confusing jargon.
+          </p>
+        </div>
+      </div>
+       <!-- Card 8 -->
+      <div class="col-md-6 col-lg-4">
+        <div class="card h-100 shadow-sm border-0 p-3">
+          <h5 class="fw-semibold">Personalized Attention in Small Batches </h5>
+          <p class="text-muted">
+            Limited class sizes ensure individual mentorship and regular doubt-clearing sessions.
+          </p>
+        </div>
+      </div>
+       <!-- Card 0-->
+      <div class="col-md-6 col-lg-4">
+        <div class="card h-100 shadow-sm border-0 p-3">
+          <h5 class="fw-semibold">Honest Career Guidance</h5>
+          <p class="text-muted">
+            Get realistic advice about local job opportunities, remote work possibilities, and freelancing potential in the Tricity area.
+          </p>
+        </div>
+      </div>
+
+
     </div>
   </div>
 </section>
@@ -1011,17 +1048,17 @@
                             <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                 data-aos-duration="1500">
                             </div>
-                            <h3>Career Opportunities After Digital Marketing Course</h3>
+                            <h3>Career Opportunities After Certification</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
                                 <li>Digital Marketing Executive</li>
                                 <li>SEO Specialist</li>
                                 <li>Social Media Manager</li>
-                                <li>PPC / Google Ads Expert</li>
+                                <li>PPC Specialist</li>
                                 <li>Content Marketer</li>
                                 <li>Freelancer or Digital Marketing Consultant</li>
                             </ul>
-                            <p class="text-white">Digital marketing professionals are in high demand across startups, agencies, and companies in India and abroad.</p>
+                            <p class="text-white">Digital skills open opportunities in Kharar's growing market, nearby Mohali/Chandigarh companies, and remote positions with national firms.</p>
                         </div>
                     </div>
                 </div><!--/col-->
@@ -1032,13 +1069,13 @@
                                 data-aos-duration="1500">
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
-                            <h3>Who Should Join This Digital Marketing Training in Himachal Pradesh?</h3>
+                            <h3>Who Should Join This Digital Marketing Training in Kharar?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students & fresh graduates</li>
-                                <li>Job seekers & career switchers</li>
-                                <li>Business owners & entrepreneurs</li>
-                                <li>Freelancers & content creators </li>
-                                <li>Working professionals upgrading skills</li>
+                                <li>Students and graduates looking to start a digital career</li>
+                                <li>Job seekers aiming for local or remote opportunities</li>
+                                <li>Business owners and entrepreneurs wanting to grow online</li>
+                                <li>Freelancers and content creators looking to expand services </li>
+                                <li>Working professionals seeking to upgrade skills</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
@@ -1065,17 +1102,17 @@
     <section class="py-5 slider text-white text-center">
         <div class="container">
 
-            <h2 class="fw-bold mb-3 text-white">Start Your <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing</a> Journey in Himachal Pradesh Today</h2>
+            <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Kharar Today</h2>
 
             <p class="lead mb-4 text-white">
-               Join 5Trainers, a trusted name for Digital Marketing Training in Himachal Pradesh, and gain skills that help you grow professionally and financially.
+             Join 5Trainers—Kharar's trusted digital marketing institute—and gain the skills to succeed online.
             </p>
             <p class="lead mb-4 text-white">
-                Contact us today to enroll and start your journey toward a successful digital career—whether you’re in Shimla, Kangra, Dharamshala, Hamirpur, Una, Mandi, Bilaspur, or Solan.
+               Contact us today to enroll in Digital Marketing Training in Kharar.
             </p>
 
             <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
-                Enroll Now 
+                 Enroll Now
             </a>
 
         </div>
@@ -1179,16 +1216,14 @@
                        Learn <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing</a>  Skills That Build Careers & Businesses
                     </h1>
                     <p class="lead mb-3 text-white">
-                    At 5Trainers, our <strong>Digital Marketing Course in Himachal Pradesh </strong> focuses on hands-on learning and industry-relevant skills that companies actually look for.
+                    At 5Trainers, our <strong>Digital Marketing Course in Kharar</strong> focuses on hands-on learning and industry-relevant skills that companies actually look for.
 
                         
                     </p>
                     <p class="mb-4 text-white">
                     We don’t just teach concepts—we help you <strong>work on live projects, real websites, and active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
-                    <p class="mb-4 text-white">
-                    Whether you are from <strong>Shimla, Dharamshala, Kangra, or any part of Himachal Pradesh</strong>, our training helps you build a strong digital career from anywhere.
-                    </p>
+                    
                     <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
                 </div>
             </div>
@@ -1197,7 +1232,7 @@
     <!-- faq -->
     <section class="container-fluid pt pb faq">
         <div class="custom-container width80">
-            <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs)</span>
+            <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Kharar</span>
             <div class="row">
 
 
@@ -1206,56 +1241,56 @@
                         <div class="box active">
                             <div class="label">1. What is digital marketing?</div>
                             <div class="content">
-                               Digital marketing is the promotion of products or services using online platforms like Google, social media, websites, email, and paid ads.
+                               Digital marketing promotes products or services using online platforms like Google, social media, and email to reach customers.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">2. Who can join the digital marketing course in Himachal Pradesh?</div>
+                            <div class="label">2. Is this course suitable for beginners?</div>
                             <div class="content">
-                                Anyone—students, freshers, professionals, business owners, freelancers, or career switchers.
+                               Yes, the course starts from basics and is designed for complete beginners.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">3. Is this course suitable for beginners?</div>
-                            <div class="content">Yes, the course starts from basics and is beginner-friendly.</div>
+                            <div class="label">3. What job opportunities are available after this course?</div>
+                            <div class="content">You can work with local businesses, digital agencies, pursue remote jobs, or start freelancing.</div>
                         </div>
                         <div class="box">
-                            <div class="label">4. Is the training practical or theoretical?</div>
+                            <div class="label">4. How practical is the training?</div>
                             <div class="content">
-                               Highly practical with live projects and real tools.
+                              The training is 100% practical with live projects and real campaign work.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">5. Will I get a certificate?</div>
+                            <div class="label">5. Do you provide a certificate?</div>
                             <div class="content">
-                               Yes, you will receive a course completion certificate from 5Trainers
+                             Yes, you receive a recognized course completion certificate from 5Trainers.
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">6. Does this course help with jobs or freelancing?</div>
-                            <div class="content">Yes, we provide job interview guidance and freelancing support.
+                            <div class="label">6. Do you help with placements?</div>
+                            <div class="content">Yes, we provide complete placement support including interview preparation and job referrals.  
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">7. How long is the course?</div>
-                            <div class="content">Course duration depends on the selected plan.
+                            <div class="label">7.Why choose 5Trainers in Kharar?</div>
+                            <div class="content">For practical training, experienced trainers, small batches, and strong placement support.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">8.  Why choose 5Trainers?</div>
-                            <div class="content">Experienced trainers, practical learning, small batches, honest guidance, and career support.
+                            <div class="label">8. What is the course duration?</div>
+                            <div class="content">Flexible duration options with weekday and weekend batches available.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">9. Can I join from any city in Himachal Pradesh?</div>
-                            <div class="content">Yes, students from all Himachal locations can join.
+                            <div class="label">9. What tools will I learn?</div>
+                            <div class="content">Google Analytics, Google Ads, Meta Business Suite, Canva, SEO tools, and AI platforms.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">10.  How can I enroll?</div>
-                            <div class="content">Contact us via our website or phone to book your seat.
+                            <div class="label">10.  How do I enroll?</div>
+                            <div class="content">Call our Kharar center, visit our website, or come to our institute for counseling.
                             </div>
                         </div>
                     </div>

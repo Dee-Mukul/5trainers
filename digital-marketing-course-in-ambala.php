@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Digital Marketing Training in Himachal Pradesh | 100% Job-Oriented Course</title>
+    <title>Digital Marketing Training in Ambala | Best Institute with Practical Training & Placement Support</title>
     <meta name="description"
-        content="Join Digital Marketing Training in Himachal Pradesh. 100% job-oriented course with placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!">
+        content="Join the best Digital Marketing Course in Ambala. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get placement support for local & remote jobs. Enroll now">
     <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
@@ -19,7 +19,9 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -47,12 +49,13 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-  <section class="container-fluid slider-landing">
+    <section class="container-fluid slider-landing">
         <div class="custom-container width90">
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-6">
                     <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
+                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
+                                class="img-fluid"></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-6">
@@ -79,51 +82,70 @@
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px;"><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh</h2>
-                                    <h4><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh – 100% Job-Oriented Course</h4>
+                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                        Ambala</h2>
+                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                        Ambala – Best Institute with Practical Career-Focused Training</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
-                                <p class="coDetail">Best Digital Marketing Institute in Himachal Pradesh with Placement Support</p>
+                                <p class="coDetail">Become a certified digital marketing expert with Ambala's leading
+                                    practical training institute. Master SEO, Google Ads, Social Media Marketing, and
+                                    modern digital tools through our hands-on, project-driven curriculum designed to
+                                    launch your career or grow your local business.
+                                </p>
                                 <!--for Both Freshers &-->
+                                <h4 class="text-white">Build In-Demand Digital Skills for Today’s Opportunities</h4>
                             </div><!--/slider text-->
 
 
-                            <div class="course-features mtb-40">
+                            <!-- <div class="course-features mtb-40">
                                 <div class="features">
                                     <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Affordable Fees </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Certified Trainers </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Internship Opportunity </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Placement assistance</div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Professional Resume Building </div>
-                                </div><!--/features-->
+                                </div>
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div><!--/features-->
+                                </div>
 
-                            </div><!--/course-features-->
+                            </div> -->
+                            <div>
+                                <p class="coDetail text-white">5Trainers offers industry-aligned Digital Marketing
+                                    Training in Ambala, structured to make you job-ready from day one. We focus on
+                                    practical, real-world skills that businesses in Ambala and remote employers across
+                                    India are actively seeking.
+                                    Learn through live campaigns, real projects, and expert mentorship—gaining the
+                                    confidence and portfolio needed to succeed in the digital economy.</p>
+                            </div>
+
+
                             <div class="course-metrics mt-15 mb-40">
                                 <div class="course-metric">
                                     <div class="metric-heading"> 95%</div>
@@ -192,8 +214,8 @@
                                 <div class="icon">
                                     <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
-                                        class="with-hover">
+                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                        alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Practical, expert - Led training </h4>
                             </div>
@@ -201,7 +223,8 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Industry-skills.png" alt="Icon" class="without-hover">
+                                    <img src="landingpage/assets/image/icon/Industry-skills.png" alt="Icon"
+                                        class="without-hover">
                                     <img src="landingpage/assets/image/icon/Industry-skills-white.png" alt="Icon"
                                         class="with-hover">
 
@@ -213,8 +236,10 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Flexibility.png" alt="Icon" class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Flexibility-white.png" alt="Icon" class="with-hover">
+                                    <img src="landingpage/assets/image/icon/Flexibility.png" alt="Icon"
+                                        class="without-hover">
+                                    <img src="landingpage/assets/image/icon/Flexibility-white.png" alt="Icon"
+                                        class="with-hover">
                                 </div>
                                 <!--<h4>Flexibility</h4>-->
                                 <h4>Flexibile Training schedule</h4>
@@ -223,8 +248,10 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/High-demand.png" alt="Icon" class="without-hover">
-                                    <img src="landingpage/assets/image/icon/High-demand-white.png" alt="Icon" class="with-hover">
+                                    <img src="landingpage/assets/image/icon/High-demand.png" alt="Icon"
+                                        class="without-hover">
+                                    <img src="landingpage/assets/image/icon/High-demand-white.png" alt="Icon"
+                                        class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
                                 <h4>Affordable Training Program</h4>
@@ -235,8 +262,8 @@
                                 <div class="icon">
                                     <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
-                                        class="with-hover">
+                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                        alt="Icon" class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
                                 <h4>Job Oriented Program</h4>
@@ -245,7 +272,8 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Placement-support.png" alt="Icon" class="without-hover">
+                                    <img src="landingpage/assets/image/icon/Placement-support.png" alt="Icon"
+                                        class="without-hover">
                                     <img src="landingpage/assets/image/icon/Placement-support-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
@@ -257,12 +285,13 @@
                 </div>
                 <div class="col-12 col-xl-5 offset-xl-1 mt-5 mt-xl-0">
                     <div class="section-title">
-                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <a href="https://5trainers.com/" style="text-decoration: none;">Digital
+                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <a
+                                href="https://5trainers.com/" style="text-decoration: none;">Digital
                                 Marketing Course</a> Certification From 5Trainers?</h2>
                     </div>
                     <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate"
                             data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
-                                    src="assets/image/icon/reply_arrow.png" alt="" ></span></a></div>
+                                    src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
                 </div>
             </div>
         </div>
@@ -276,7 +305,9 @@
                         <div class="section-title-area">
                             <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
                                 Overview</h6>
-                            <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title"><a href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital Marketing</a>
+                            <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title"><a
+                                    href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital
+                                    Marketing</a>
                                 Course Overview</h2>
                             <p data-aos="fade-up" data-aos-duration="1700"></p>
                         </div>
@@ -291,12 +322,19 @@
                                     <div class="service-info">
                                         <h5>Digital Marketing Fundamentals</h5>
                                         <ul>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Introduction to Digital Marketing & Career Scope</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Planning & Structure</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> WordPress Website Designing (Hands-on)</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> SEO Fundamentals – On-Page & Off-Page SEO</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Keyword Research & Competitor Analysis</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Google Search Console & Analytics Setup</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Introduction to Digital Marketing & Career
+                                                Scope</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Website Planning & Structure</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> WordPress Website Designing (Hands-on)</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> SEO Fundamentals – On-Page & Off-Page SEO</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Keyword Research & Competitor Analysis</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Google Search Console & Analytics Setup</li>
                                         </ul>
                                         <div class="sview"><a href="#" title="View More"><img
                                                     src="assets/image/icon/sview.png" alt=""></a></div>
@@ -313,11 +351,16 @@
                                     <div class="service-info">
                                         <h5>Paid Advertising (PPC)</h5>
                                         <ul>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Google Ads Search Campaigns
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Google Display Ads & YouTube Ads</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Meta (Facebook & Instagram) Ads</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Remarketing Campaigns</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Conversion Tracking & ROI Optimization</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Google Ads Search Campaigns
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Google Display Ads & YouTube Ads</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Meta (Facebook & Instagram) Ads</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Remarketing Campaigns</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Conversion Tracking & ROI Optimization</li>
 
                                         </ul>
                                         <div class="sview"><a href="#" title="View More"><img
@@ -340,7 +383,7 @@
         </div>
     </section><!--/about -->
 
-  <section class="contaianer-fluid pt pb skill-cover">
+       <section class="contaianer-fluid pt pb skill-cover">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -443,9 +486,9 @@
     <section class="py-5 bg-light">
         <div class="cutom-container width90">
             <div class="text-center mb-5">
-                <h2 class="fw-bold">Digital Marketing Course in Himachal Pradesh – What You Will Learn</h2>
+                <h2 class="fw-bold">Digital Marketing Course in Ambala – Comprehensive Curriculum</h2>
                 <p class="text-muted">
-                   Our course covers all major digital marketing modules required in today’s competitive market.
+                    Our complete program covers all essential areas of modern digital marketing:
                 </p>
             </div>
 
@@ -454,17 +497,17 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">SEO Training in Himachal Pradesh</h5>
+                            <h5 class="card-title">SEO Training in Ambala:</h5>
                             <p class="card-text">
-                               Learn how to rank websites on Google and generate organic traffic.
+                                Master on-page, off-page, technical, and local SEO. Learn keyword research, competitor analysis, and perform live website optimization for local businesses.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Keyword research</li>
                                 <li>On-page SEO</li>
                                 <li>Off-page SEO</li>
                                 <li>Technical SEO</li>
                                 <li>Local SEO</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -473,17 +516,17 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Social Media Marketing (SMM) Training  </h5>
+                            <h5 class="card-title">Social Media Marketing (SMM) Training in Ambala: </h5>
                             <p class="card-text">
-                                Learn how to grow brands on:
+                                 Plan and execute complete brand strategies across Facebook, Instagram, LinkedIn, and YouTube. Learn content creation, paid advertising, community management, and performance analytics.
                             </p>
-                             <ul class="p-0">
+                            <!-- <ul>
                                 <li>Facebook</li>
                                 <li>Instagram</li>
                                 <li>LinkedIn</li>
                                 <li>YouTube</li>
                                
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -492,16 +535,16 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">PPC & Google Ads Training</h5>
+                            <h5 class="card-title">PPC & Google Ads Training in Ambala: </h5>
                             <p class="card-text">
-                               Learn paid marketing through:
+                               Create, manage, and optimize high-ROI paid campaigns on Google Search and Display networks. Master budgeting, targeting strategies, ad creation, and conversion tracking.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Google Search Ads</li>
                                 <li>Display Ads</li>
                                 <li>YouTube Ads</li>
                                 <li>Social media paid campaigns</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -510,16 +553,16 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Content Marketing Training</h5>
+                            <h5 class="card-title">Content Marketing Training in Ambala:</h5>
                             <p class="card-text">
-                                Learn how to create SEO-friendly content such as:  
+                                Develop compelling content strategies that drive traffic and engagement. Learn blog writing, video content, SEO-optimized copywriting, and content calendar management.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Blogs</li>
                                 <li>Website content</li>
                                 <li>Social media posts</li>
                                 <li>Basic copywriting for ads and landing pages</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -528,16 +571,16 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Email Marketing Training</h5>
+                            <h5 class="card-title">Email Marketing Training in Ambala:</h5>
                             <p class="card-text">
-                                Learn how to:
+                              Build effective email marketing campaigns, design engaging newsletters, write high-converting copy, and analyze performance using industry tools.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Build email lists</li>
                                 <li>Design email campaigns</li>
                                 <li>Write effective emails</li>
                                 <li>Track open rates and conversions</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -546,16 +589,16 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Analytics & AI Tools Training</h5>
+                            <h5 class="card-title">Analytics & AI Tools Training in Ambala:</h5>
                             <p class="card-text">
-                                Understand tools like:
+                               Use Google Analytics 4 and Search Console to track performance and leverage AI tools for content creation, ad optimization, and data analysis.
                             </p>
-                            <ul class="p-0">
+                            <!-- <ul>
                                 <li>Google Analytics</li>
                                 <li>Google Search Console</li>
                                 <li>AI-powered marketing tools</li>
                                 <li>Reporting & performance analysis</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -646,87 +689,121 @@
         </div><!--/container-->
     </section><!--/Tool Covered-->
 
-<!--  -->
+    <!--  -->
     <section class="py-5 bg-light">
-  <div class="container">
-    <div class="text-center mb-5">
-      <h2 class="fw-bold">Why Choose 5Trainers for <a href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital Marketing</a> Training in Himachal Pradesh?</h2>
-      <p class="text-muted mt-2">
-        We believe digital marketing should be simple, practical, and result-oriented.
-      </p>
-    </div>
+        <div class="custom-container width90">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Ambala?</h2>
+                <p class="text-muted mt-2">
+                    We provide a supportive, practical, and results-oriented learning experience tailored for Ambala’s
+                    aspiring professionals.
+                </p>
+            </div>
 
-    <div class="row g-4">
-      <!-- Card 1 -->
-      <div class="col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Learn from Industry Experts</h5>
-          <p class="text-muted">
-            Our trainers are experienced digital marketers working on live projects and teaching with real-world examples.
-          </p>
-        </div>
-      </div>
+            <div class="row g-4">
+                <!-- Card 1 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Learn from Certified Industry Experts:</h5>
+                        <p class="text-muted">
+                            Our trainers are active digital marketers with real campaign experience, bringing current
+                            industry insights and practical knowledge to the classroom.
+                        </p>
+                    </div>
+                </div>
 
-      <!-- Card 2 -->
-      <div class="col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">100% Practical Training</h5>
-          <ul class="text-muted p-0">
+                <!-- Card 2 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">100% Live Project-Based Training:</h5>
+                        <p class="text-muted"> Execute real SEO audits, manage Google Ads campaigns, run social media strategies, and create content for actual projects during your training.</p>
+                        <!-- <ul class="text-muted ps-3">
             <li>Live websites</li>
             <li>SEO audits</li>
             <li>Google Ads campaigns</li>
             <li>Social media marketing</li>
             <li>Content creation & analytics</li>
-          </ul>
-        </div>
-      </div>
+          </ul> -->
+                    </div>
+                </div>
 
-      <!-- Card 3 -->
-      <div class="col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Beginner-Friendly Course</h5>
-          <p class="text-muted">
-            No technical background required. We start from basics and move step-by-step to advanced strategies.
-          </p>
-        </div>
-      </div>
+                <!-- Card 3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Beginner to Professional Learning Path:</h5>
+                        <p class="text-muted">
+                             No prior technical knowledge required. We start with fundamentals and progress step-by-step to advanced digital marketing strategies.
+                        </p>
+                    </div>
+                </div>
 
-      <!-- Card 4 -->
-      <div class="col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Career & Freelancing Support</h5>
-          <ul class="text-muted p-0">
+                <!-- Card 4 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Complete Career & Freelance Support:</h5>
+                        <p class="text-muted"> Receive dedicated guidance for resume building, interview preparation, freelancing setup, and job placement assistance in Ambala and remote opportunities.</p>
+                        <!-- <ul class="text-muted ps-3">
             <li>Job interview preparation</li>
             <li>Resume & portfolio building</li>
             <li>Freelancing platform guidance</li>
             <li>Client handling basics</li>
-          </ul>
-        </div>
-      </div>
+          </ul> -->
+                    </div>
+                </div>
 
-      <!-- Card 5 -->
-      <div class="col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Real Trainers, Real Experience</h5>
-          <p class="text-muted">
-            Learn from professionals actively working in the digital marketing industry — no outdated theory.
-          </p>
-        </div>
-      </div>
+                <!-- Card 5 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Training Based on Real Campaign Results:</h5>
+                        <p class="text-muted">
+                            Curriculum is updated with current algorithm changes and successful marketing strategies—no outdated theoretical concepts.
+                        </p>
+                    </div>
+                </div>
 
-      <!-- Card 6 -->
-      <div class="col-md-6 col-lg-4">
-        <div class="card h-100 shadow-sm border-0 p-3">
-          <h5 class="fw-semibold">Support Even After Course Completion</h5>
-          <p class="text-muted">
-            Get continuous guidance even after training to grow confidently in your career.
-          </p>
+                <!-- Card 6 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Hands-On Experience with Industry Tools:</h5>
+                        <p class="text-muted">
+                            Gain proficiency in Google Analytics 4, Google Ads, Meta Business Suite, Canva, SEO tools, and AI-powered marketing platforms.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 7 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Simple, Jargon-Free Learning Approach: </h5>
+                        <p class="text-muted">
+                            We break down complex digital concepts into easy-to-understand, actionable steps perfect for beginners.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 8 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
+                        <p class="text-muted">
+                            Our limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
+                            direct interaction with trainers.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 0-->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Honest Local & Remote Career Guidance: </h5>
+                        <p class="text-muted">
+                            Get transparent advice about Ambala's job market, remote work opportunities, freelancing potential, and realistic salary expectations.
+                        </p>
+                    </div>
+                </div>
+
+
+            </div>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!--  -->
+    </section>
+    <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
         <div class="cutom-container width90">
@@ -1011,17 +1088,17 @@
                             <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                 data-aos-duration="1500">
                             </div>
-                            <h3>Career Opportunities After Digital Marketing Course</h3>
+                            <h3>Career Opportunities After Certification</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive</li>
-                                <li>SEO Specialist</li>
-                                <li>Social Media Manager</li>
-                                <li>PPC / Google Ads Expert</li>
-                                <li>Content Marketer</li>
-                                <li>Freelancer or Digital Marketing Consultant</li>
+                                <li>Digital Marketing Executive / Specialist</li>
+                                <li>SEO Specialist / Analyst</li>
+                                <li>Social Media Marketing Manager</li>
+                                <li>PPC / Google Ads Specialist</li>
+                                <li>Content Marketing Manager</li>
+                                <li>Digital Marketing Consultant / Freelancer</li>
                             </ul>
-                            <p class="text-white">Digital marketing professionals are in high demand across startups, agencies, and companies in India and abroad.</p>
+                            <p class="text-white">Ambala’s growing commercial environment offers opportunities in local businesses, nearby industrial units, and access to remote positions with companies across India.</p>
                         </div>
                     </div>
                 </div><!--/col-->
@@ -1032,13 +1109,13 @@
                                 data-aos-duration="1500">
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
-                            <h3>Who Should Join This Digital Marketing Training in Himachal Pradesh?</h3>
+                            <h3>Who Should Join This Digital Marketing Training in Ambala?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students & fresh graduates</li>
-                                <li>Job seekers & career switchers</li>
-                                <li>Business owners & entrepreneurs</li>
-                                <li>Freelancers & content creators </li>
-                                <li>Working professionals upgrading skills</li>
+                                <li>Students and recent graduates looking to build a strong digital career</li>
+                                <li>Job seekers and professionals aiming to transition into high-growth digital roles</li>
+                                <li>Local business owners, entrepreneurs, and shopkeepers wanting to grow their business online</li>
+                                <li>Freelancers, bloggers, and content creators seeking to monetize their skills </li>
+                                <li>Working professionals in marketing, sales, or IT looking to upgrade their digital expertise</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
@@ -1065,17 +1142,17 @@
     <section class="py-5 slider text-white text-center">
         <div class="container">
 
-            <h2 class="fw-bold mb-3 text-white">Start Your <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing</a> Journey in Himachal Pradesh Today</h2>
+            <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ambala Today</h2>
 
             <p class="lead mb-4 text-white">
-               Join 5Trainers, a trusted name for Digital Marketing Training in Himachal Pradesh, and gain skills that help you grow professionally and financially.
+               Join 5Trainers—Ambala's most trusted digital marketing institute—and gain the practical skills and confidence to excel in the digital domain.
             </p>
             <p class="lead mb-4 text-white">
-                Contact us today to enroll and start your journey toward a successful digital career—whether you’re in Shimla, Kangra, Dharamshala, Hamirpur, Una, Mandi, Bilaspur, or Solan.
+                Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training in Ambala.
             </p>
 
             <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
-                Enroll Now 
+                 Enroll Now 
             </a>
 
         </div>
@@ -1174,21 +1251,22 @@
     <section class="py-5 slider text-white">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-8 mx-auto text-center">
                     <h1 class="fw-bold mb-3">
-                       Learn <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing</a>  Skills That Build Careers & Businesses
+                        Learn <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital
+                            Marketing</a> Skills That Build Careers & Businesses
                     </h1>
                     <p class="lead mb-3 text-white">
-                    At 5Trainers, our <strong>Digital Marketing Course in Himachal Pradesh </strong> focuses on hands-on learning and industry-relevant skills that companies actually look for.
+                        At 5Trainers, our <strong>Digital Marketing Course in Ambala</strong> focuses on hands-on
+                        learning and industry-relevant skills that companies actually look for.
 
-                        
+
                     </p>
                     <p class="mb-4 text-white">
-                    We don’t just teach concepts—we help you <strong>work on live projects, real websites, and active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
+                        We don’t just teach concepts—we help you <strong>work on live projects, real websites, and
+                            active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
-                    <p class="mb-4 text-white">
-                    Whether you are from <strong>Shimla, Dharamshala, Kangra, or any part of Himachal Pradesh</strong>, our training helps you build a strong digital career from anywhere.
-                    </p>
+
                     <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
                 </div>
             </div>
@@ -1197,7 +1275,7 @@
     <!-- faq -->
     <section class="container-fluid pt pb faq">
         <div class="custom-container width80">
-            <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs)</span>
+            <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Ambala</span>
             <div class="row">
 
 
@@ -1206,56 +1284,57 @@
                         <div class="box active">
                             <div class="label">1. What is digital marketing?</div>
                             <div class="content">
-                               Digital marketing is the promotion of products or services using online platforms like Google, social media, websites, email, and paid ads.
+                                Digital marketing involves promoting products, services, or brands using online platforms like Google, social media, email, and websites to connect with customers and grow business.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">2. Who can join the digital marketing course in Himachal Pradesh?</div>
+                            <div class="label">2. Who can join this course in Ambala?</div>
                             <div class="content">
-                                Anyone—students, freshers, professionals, business owners, freelancers, or career switchers.
+                                The course is ideal for students, working professionals, business owners, freelancers, and anyone interested in building a successful career or business online.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">3. Is this course suitable for beginners?</div>
-                            <div class="content">Yes, the course starts from basics and is beginner-friendly.</div>
+                            <div class="label">3. I have no prior knowledge of computers or marketing. Is this course suitable?</div>
+                            <div class="content">Yes, absolutely. The course is specifically designed for complete beginners. We start from the very basics and guide you step-by-step.</div>
                         </div>
                         <div class="box">
-                            <div class="label">4. Is the training practical or theoretical?</div>
+                            <div class="label">4. What topics are covered in the training?</div>
                             <div class="content">
-                               Highly practical with live projects and real tools.
+                                The complete training covers SEO, Social Media Marketing, Google Ads (PPC), Content Marketing, Email Marketing, Web Analytics, and AI in digital marketing.
+
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">5. Will I get a certificate?</div>
+                            <div class="label">5. How practical is the training?</div>
                             <div class="content">
-                               Yes, you will receive a course completion certificate from 5Trainers
+                                The training is 100% practical and hands-on. You will work on live projects, real websites, and active marketing campaigns throughout the program.
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">6. Does this course help with jobs or freelancing?</div>
-                            <div class="content">Yes, we provide job interview guidance and freelancing support.
+                            <div class="label">6. Do you provide a certificate?</div>
+                            <div class="content">Yes, you will receive a recognized course completion certificate from 5Trainers that is valued by employers locally and nationally.
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">7. How long is the course?</div>
-                            <div class="content">Course duration depends on the selected plan.
+                            <div class="label">7.Do you offer placement assistance in Ambala?</div>
+                            <div class="content">Yes, we provide complete placement support, including interview preparation, resume workshops, and connecting you with job opportunities in Ambala and remote positions.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">8.  Why choose 5Trainers?</div>
-                            <div class="content">Experienced trainers, practical learning, small batches, honest guidance, and career support.
+                            <div class="label">8. Why should I choose 5Trainers in Ambala?</div>
+                            <div class="content">For our industry-expert trainers, completely practical approach, strong placement support, affordable fees, and proven track record of student success in Ambala.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">9. Can I join from any city in Himachal Pradesh?</div>
-                            <div class="content">Yes, students from all Himachal locations can join.
+                            <div class="label">9. What is the duration and schedule of the course?</div>
+                            <div class="content">We offer flexible weekday and weekend batches to suit different schedules. The duration typically ranges from 3 to 4 months. Contact us for current batch details.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">10.  How can I enroll?</div>
-                            <div class="content">Contact us via our website or phone to book your seat.
+                            <div class="label">10. How do I enroll or get more information?</div>
+                            <div class="content">You can call our Ambala center directly, visit our website, or come to our institute for a detailed counseling session and course overview.
                             </div>
                         </div>
                     </div>
